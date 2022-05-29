@@ -1,0 +1,4 @@
+﻿  Polygon.cpp
+C:\Users\103173400\OneDrive - Swinburne University\COS30008\Week2\Project1\Project1\Polygon.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\103173400\OneDrive - Swinburne University\COS30008\Week2\Project1\Project1\Polygon.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\103173400\OneDrive - Swinburne University\COS30008\Week2\Project1\Debug\Project1.exe
